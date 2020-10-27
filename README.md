@@ -1,2 +1,0 @@
-# sucessocorp
-site sucesso corp
